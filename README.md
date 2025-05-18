@@ -17,7 +17,7 @@ This probably means that Tcl wasn't installed properly.
   1. 使用 <=3.12 版本的 python
   2. 自行将所需的 init.tcl 文件放入报错提示中提及的任一目录下
 # 界面展示
-![](./image/1.png)
-![](./image/2.png)
-![](./image/3.png)
-![](./image/4.png)
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
